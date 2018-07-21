@@ -1,0 +1,13 @@
+.texto-centro{
+  text-align: center;  
+  }
+
+.imagem-centro{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imagem-redonda{
+    border-radius: 50%;
+}
